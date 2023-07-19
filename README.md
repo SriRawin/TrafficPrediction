@@ -1,16 +1,13 @@
-# traffic_prediction
+# Traffic Prediction
 
-A new Flutter application.
+A Flutter application built with Flutter and Google maps API
 
-## Getting Started
+Through this project, I learned how to use Google Cloud Platform (GCP) and got familiar in developing apps based on google maps.
 
-This project is a starting point for a Flutter application.
+## How the app works
 
-A few resources to get you started if this is your first Flutter project:
+- Basic idea was to fetch current location of the user
+- Search for destination based on user query
+- Based on the start and end point, the app would suggest the user at what time the user can travel to have optimal travel time taking traffic into consideration
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### DEMO VIDEO - [Google Drive link](https://drive.google.com/file/d/1RYuLMNByZszAwsiCZxZLV6CwWkqpcNGP/view?usp=sharing)
